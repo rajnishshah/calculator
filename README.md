@@ -1,3 +1,3 @@
-# calculator
+# Calculator
 
-Click here:
+Click here:https://rajnishshah.github.io/calculator/
